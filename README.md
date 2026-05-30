@@ -1,3 +1,63 @@
+# Car Manager Frontend
+
+Frontend desarrollado con React para la gestión de vehículos de usuarios autenticados.
+
+## Tecnologías
+
+* React
+* TypeScript
+* Axios
+* React Router
+* Tailwind CSS
+* Vite
+
+## Instalación
+
+Clonar el proyecto:
+
+git clone https://github.com/gironjhonatan/carmanager_fron.git
+
+Ingresar al proyecto:
+
+cd carmanager_fron
+
+Instalar dependencias:
+
+npm install
+
+## Ejecutar Proyecto
+
+npm run dev
+
+La aplicación estará disponible en:
+
+http://localhost:5173/login
+
+## Funcionalidades
+
+* Registro de usuario
+* Inicio de sesión
+* Gestión de vehículos
+* Creación de vehículos
+* Edición de vehículos
+* Eliminación de vehículos
+* Protección de rutas
+* Manejo de JWT
+* Validaciones en formularios
+
+## Integración
+
+Configurar la URL del backend según el entorno de ejecución.
+
+## Repositorio
+
+https://github.com/gironjhonatan/carmanager_fron
+#
+#
+#
+#
+#
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
